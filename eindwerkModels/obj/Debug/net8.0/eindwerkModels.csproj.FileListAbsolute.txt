@@ -1,0 +1,11 @@
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\bin\Debug\net8.0\eindwerkModels.deps.json
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\bin\Debug\net8.0\eindwerkModels.dll
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\bin\Debug\net8.0\eindwerkModels.pdb
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\eindwerkModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\eindwerkModels.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\eindwerkModels.AssemblyInfo.cs
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\eindwerkModels.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\eindwerkModels.dll
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\refint\eindwerkModels.dll
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\eindwerkModels.pdb
+C:\Users\milan\source\repos\eindwerk\eindwerkModels\obj\Debug\net8.0\ref\eindwerkModels.dll

@@ -1,0 +1,45 @@
+﻿<Window x:Class="wpf.AddOfferWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Offer" Height="540" Width="366">
+    <Grid>
+        <StackPanel Margin="20">
+                <Label Content="Offer Number:" />
+                <TextBox x:Name="OfferNumberTextBox" />
+
+                <Label Content="Customer ID:" />
+                <TextBox x:Name="CustomerIdTextBox" />
+
+                <Label Content="Product ID:" />
+                <TextBox x:Name="ProductIdTextBox" />
+
+                <Label Content="Product Quantity:" />
+                <TextBox x:Name="QuantityTextBox" />
+
+                <CheckBox x:Name="PickupCheckBox" Content="Pickup" Margin="0,10,0,0" />
+                <CheckBox x:Name="GardenLayoutCheckBox" Content="Garden Layout" />
+
+                <Button Content="Add Product" Click="AddProductButton_Click" HorizontalAlignment="Center" Margin="0,20,0,0" />
+
+            <ListBox x:Name="AddedProductsListBox"
+         ItemsSource="{Binding AddedProducts}"
+         Grid.Row="2"
+         Grid.Column="1"
+         Margin="5"
+         VerticalAlignment="Stretch"
+         HorizontalAlignment="Stretch">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Product ID: " />
+                            <TextBlock Text="{Binding ProductId}" FontWeight="Bold" />
+                            <TextBlock Text=" Quantity: " />
+                            <TextBlock Text="{Binding Quantity}" FontWeight="Bold" />
+                        </StackPanel>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <Button Content="Add Offer" Click="AddOfferButton_Click" HorizontalAlignment="Center" Margin="0,20,0,0" />
+            </StackPanel>
+        </Grid>
+    </Window>

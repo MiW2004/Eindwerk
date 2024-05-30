@@ -1,0 +1,28 @@
+﻿<Window x:Class="wpf.InputDialog"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit Offer" Height="350" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <Label Content="ID:" />
+            <TextBox Text="{Binding Id}" IsReadOnly="True" />
+
+            <Label Content="Date:" />
+            <TextBox Text="{Binding Date, StringFormat=d}" IsReadOnly="True" />
+
+            <Label Content="Customer ID:" />
+            <TextBox Text="{Binding CustomerId}" />
+
+            <CheckBox Content="Pickup" IsChecked="{Binding Pickup}" />
+            <CheckBox Content="Garden Layout" IsChecked="{Binding GardenLayout}" />
+
+            <Label Content="Products per offer:" />
+            <TextBox Text="{Binding AantalPRperOffer}" IsReadOnly="True"/>
+
+            <Label Content="Total Price:" />
+            <TextBox Text="{Binding TotalPrice, StringFormat={}{0:C}, ConverterCulture='de-DE'}" IsReadOnly="True" />
+
+            <Button Content="Save" Click="SaveButton_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

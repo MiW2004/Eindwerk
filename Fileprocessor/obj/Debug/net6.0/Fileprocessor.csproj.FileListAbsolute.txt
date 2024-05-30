@@ -1,0 +1,4 @@
+C:\Users\milan\source\repos\eindwerk\Fileprocessor\obj\Debug\net6.0\Fileprocessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\eindwerk\Fileprocessor\obj\Debug\net6.0\Fileprocessor.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\eindwerk\Fileprocessor\obj\Debug\net6.0\Fileprocessor.AssemblyInfo.cs
+C:\Users\milan\source\repos\eindwerk\Fileprocessor\obj\Debug\net6.0\Fileprocessor.csproj.CoreCompileInputs.cache

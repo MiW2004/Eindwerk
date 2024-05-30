@@ -1,0 +1,15 @@
+C:\Users\milan\source\repos\eindwerk\EindwerkData\bin\Debug\net8.0\EindwerkData.deps.json
+C:\Users\milan\source\repos\eindwerk\EindwerkData\bin\Debug\net8.0\EindwerkData.dll
+C:\Users\milan\source\repos\eindwerk\EindwerkData\bin\Debug\net8.0\EindwerkData.pdb
+C:\Users\milan\source\repos\eindwerk\EindwerkData\bin\Debug\net8.0\eindwerkModels.dll
+C:\Users\milan\source\repos\eindwerk\EindwerkData\bin\Debug\net8.0\eindwerkModels.pdb
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.AssemblyInfo.cs
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.csproj.CoreCompileInputs.cache
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\Eindwerk.DD9B028A.Up2Date
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.dll
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\refint\EindwerkData.dll
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\EindwerkData.pdb
+C:\Users\milan\source\repos\eindwerk\EindwerkData\obj\Debug\net8.0\ref\EindwerkData.dll

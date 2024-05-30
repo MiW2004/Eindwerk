@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milan\\source\\repos\\eindwerk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1898DA-12B3-4872-A7F9-4F86E7F9A936}|EindwerkData\\EindwerkData.csproj|c:\\users\\milan\\source\\repos\\eindwerk\\eindwerkdata\\eindwerkdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A1898DA-12B3-4872-A7F9-4F86E7F9A936}|EindwerkData\\EindwerkData.csproj|solutionrelative:eindwerkdata\\eindwerkdata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D184E54-C38B-4BC0-8CC6-3905DB5618C7}|eindwerkModels\\eindwerkModels.csproj|c:\\users\\milan\\source\\repos\\eindwerk\\eindwerkmodels\\eindwerkmodels.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D184E54-C38B-4BC0-8CC6-3905DB5618C7}|eindwerkModels\\eindwerkModels.csproj|solutionrelative:eindwerkmodels\\eindwerkmodels.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B08AA6A-2B96-4A5D-85F3-C76C7D11F842}|wpf\\wpf.csproj|c:\\users\\milan\\source\\repos\\eindwerk\\wpf\\wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5B08AA6A-2B96-4A5D-85F3-C76C7D11F842}|wpf\\wpf.csproj|solutionrelative:wpf\\wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B08AA6A-2B96-4A5D-85F3-C76C7D11F842}|wpf\\wpf.csproj|c:\\users\\milan\\source\\repos\\eindwerk\\wpf\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5B08AA6A-2B96-4A5D-85F3-C76C7D11F842}|wpf\\wpf.csproj|solutionrelative:wpf\\addcustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A1898DA-12B3-4872-A7F9-4F86E7F9A936}|EindwerkData\\EindwerkData.csproj|c:\\users\\milan\\source\\repos\\eindwerk\\eindwerkdata\\eindwerkdata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0A1898DA-12B3-4872-A7F9-4F86E7F9A936}|EindwerkData\\EindwerkData.csproj|solutionrelative:eindwerkdata\\eindwerkdata.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EindwerkData",
+              "DocumentMoniker": "C:\\Users\\milan\\source\\repos\\eindwerk\\EindwerkData\\EindwerkData.csproj",
+              "RelativeDocumentMoniker": "EindwerkData\\EindwerkData.csproj",
+              "ToolTip": "C:\\Users\\milan\\source\\repos\\eindwerk\\EindwerkData\\EindwerkData.csproj",
+              "RelativeToolTip": "EindwerkData\\EindwerkData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T03:39:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eindwerkModels",
+              "DocumentMoniker": "C:\\Users\\milan\\source\\repos\\eindwerk\\eindwerkModels\\eindwerkModels.csproj",
+              "RelativeDocumentMoniker": "eindwerkModels\\eindwerkModels.csproj",
+              "ToolTip": "C:\\Users\\milan\\source\\repos\\eindwerk\\eindwerkModels\\eindwerkModels.csproj",
+              "RelativeToolTip": "eindwerkModels\\eindwerkModels.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T03:39:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wpf",
+              "DocumentMoniker": "C:\\Users\\milan\\source\\repos\\eindwerk\\wpf\\wpf.csproj",
+              "RelativeDocumentMoniker": "wpf\\wpf.csproj",
+              "ToolTip": "C:\\Users\\milan\\source\\repos\\eindwerk\\wpf\\wpf.csproj",
+              "RelativeToolTip": "wpf\\wpf.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T03:39:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "addCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\milan\\source\\repos\\eindwerk\\wpf\\addCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "wpf\\addCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\milan\\source\\repos\\eindwerk\\wpf\\addCustomerWindow.xaml",
+              "RelativeToolTip": "wpf\\addCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T03:38:54.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EindwerkData",
+              "DocumentMoniker": "C:\\Users\\milan\\source\\repos\\eindwerk\\EindwerkData\\EindwerkData.csproj",
+              "RelativeDocumentMoniker": "EindwerkData\\EindwerkData.csproj",
+              "ToolTip": "C:\\Users\\milan\\source\\repos\\eindwerk\\EindwerkData\\EindwerkData.csproj",
+              "RelativeToolTip": "EindwerkData\\EindwerkData.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-30T03:16:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
